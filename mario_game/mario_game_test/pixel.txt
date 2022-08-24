@@ -1,0 +1,6 @@
+the lower border of the fungus, dead, turtle and dead 19,  15,       23       and 16 respectively
+upper limit of fungus, dead, turtle, dead             4,8,         2,         4 and 5
+left border fungus, dead, turtle, dead               0,30, 60, 150, 180, 331, 361
+flower 390 , 30 , dovjina 24 ,shirina 16
+       420    30 , dovjina 24 ,shirina 16
+truba 95 , 48 , 0
